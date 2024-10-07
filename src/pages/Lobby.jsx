@@ -119,7 +119,7 @@ function Lobby() {
   return (
     <div
       className="bg-black text-white min-h-screen"
-      style={{ backgroundColor: "purple" }}
+      
     >
       <header className="p-4 flex justify-center bg-yellow-300">
         <h1 className="text-3xl font-bold text-green_primary">Casino Lobby</h1>
